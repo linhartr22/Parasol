@@ -1,3 +1,3 @@
 # Parasol
-Arduino Flora WS28xx LED Strip Controller for Parasol
+Arduino Flora NeoPixel Controller for Parasol
 
